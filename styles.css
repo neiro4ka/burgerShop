@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#hamburger-form {
+    background-color: rgb(192, 252, 217);
+}
+
+#hamburger-title, .hamburger-fieldset-item, #check, #result  {
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 2px groove grey;
+}
+
+#hamburger-title, .hamburger-fieldset-item, #check {
+    background-color: rgb(129, 196, 157);
+}
+
+#check:hover {
+    background-color: rgb(94, 146, 116);
+}
+
+#result {
+    background-color: rgb(196, 129, 138);
+}
